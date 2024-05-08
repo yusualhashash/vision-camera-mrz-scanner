@@ -21,5 +21,9 @@ npm install vision-camera-mrz-scanner
 yarn add vision-camera-mrz-scanner
 ```
 
+#### Run
+```sh
+npm run android
+```
 
 
