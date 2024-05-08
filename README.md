@@ -8,9 +8,9 @@ VisionCamera Frame Processor Plugin to detect and read MRZ data from passports u
 ### Clone
 ```sh
 git clone https://github.com/yusualhashash/vision-camera-mrz-scanner.git
+```
 
 cd vision-camera-mrz-scanner/example
-```
 
 #### Install
 ```sh
